@@ -328,7 +328,7 @@ button {
 	}
 
 	.countryModal {
-		height: fit-content;
+		height: 100vh;
 		padding: 1rem;
 	}
 

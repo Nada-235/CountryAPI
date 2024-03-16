@@ -1,4 +1,40 @@
 Script started on Sat Mar 16 08:47:01 2024
 [1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004h[7mgit init[27m[8D[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[?2004l
 Initialized empty Git repository in /Volumes/DDO 🐥/4. ReCoded/FullStack Development Bootcamp/2. Class Assignment/FrontEnd-Mentor/rest-countries-api-with-color-theme-switcher-master/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004h[7mgit add [27m[8D[27mg[27mi[27mt[27m [27ma[27md[27md[27m .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004hgit add .init [?2004l
+Reinitialized existing Git repository in /Volumes/DDO 🐥/4. ReCoded/FullStack Development Bootcamp/2. Class Assignment/FrontEnd-Mentor/rest-countries-api-with-color-theme-switcher-master/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004hgit initadd .[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004hggit commit -m"  "✨"[?2004l
+[main (root-commit) dfa396e] ✨
+ 18 files changed, 17688 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 README-template.md
+ create mode 100644 README.md
+ create mode 100644 data.json
+ create mode 100644 design/desktop-design-detail-dark.jpg
+ create mode 100644 design/desktop-design-detail-light.jpg
+ create mode 100644 design/desktop-design-home-dark.jpg
+ create mode 100644 design/desktop-design-home-light.jpg
+ create mode 100644 design/desktop-preview.jpg
+ create mode 100644 design/mobile-design-detail-dark.jpg
+ create mode 100644 design/mobile-design-detail-light.jpg
+ create mode 100644 design/mobile-design-home-dark.jpg
+ create mode 100644 design/mobile-design-home-light.jpg
+ create mode 100644 index.html
+ create mode 100644 run
+ create mode 100644 script.js
+ create mode 100644 style-guide.md
+ create mode 100644 style.css
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004hgit commit -m "✨"[14Dadd .         [9D     g  [7mgit remote add origin git@github.com:Nada-235/CountryAPI.git[27m[60D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mN[27ma[27md[27ma[27m-[27m2[27m3[27m5[27m/[27mC[27mo[27mu[27mn[27mt[27mr[27my[27mA[27mP[27mI[27m.[27mg[27mi[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004h[7mgit push -u origin main[27m[23D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+Enumerating objects: 21, done.
+Counting objects:   4% (1/21)Counting objects:   9% (2/21)Counting objects:  14% (3/21)Counting objects:  19% (4/21)Counting objects:  23% (5/21)Counting objects:  28% (6/21)Counting objects:  33% (7/21)Counting objects:  38% (8/21)Counting objects:  42% (9/21)Counting objects:  47% (10/21)Counting objects:  52% (11/21)Counting objects:  57% (12/21)Counting objects:  61% (13/21)Counting objects:  66% (14/21)Counting objects:  71% (15/21)Counting objects:  76% (16/21)Counting objects:  80% (17/21)Counting objects:  85% (18/21)Counting objects:  90% (19/21)Counting objects:  95% (20/21)Counting objects: 100% (21/21)Counting objects: 100% (21/21), done.
+Delta compression using up to 12 threads
+Compressing objects:   4% (1/21)Compressing objects:   9% (2/21)Compressing objects:  14% (3/21)Compressing objects:  19% (4/21)Compressing objects:  23% (5/21)Compressing objects:  28% (6/21)Compressing objects:  33% (7/21)Compressing objects:  38% (8/21)Compressing objects:  42% (9/21)Compressing objects:  47% (10/21)Compressing objects:  52% (11/21)Compressing objects:  57% (12/21)Compressing objects:  61% (13/21)Compressing objects:  66% (14/21)Compressing objects:  71% (15/21)Compressing objects:  76% (16/21)Compressing objects:  80% (17/21)Compressing objects:  85% (18/21)Compressing objects:  90% (19/21)Compressing objects:  95% (20/21)Compressing objects: 100% (21/21)Compressing objects: 100% (21/21), done.
+Writing objects:   4% (1/21)Writing objects:   9% (2/21)Writing objects:  14% (3/21)Writing objects:  19% (4/21)Writing objects:  23% (5/21)Writing objects:  28% (6/21)Writing objects:  33% (7/21)Writing objects:  38% (8/21)Writing objects:  42% (9/21)Writing objects:  47% (10/21)Writing objects:  52% (11/21)Writing objects:  57% (12/21)Writing objects:  61% (13/21)Writing objects:  66% (14/21)Writing objects:  71% (15/21)Writing objects:  76% (16/21)Writing objects:  80% (17/21)Writing objects:  85% (18/21)Writing objects:  90% (19/21)Writing objects:  95% (20/21)Writing objects: 100% (21/21)Writing objects: 100% (21/21), 689.86 KiB | 4.37 MiB/s, done.
+Total 21 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:Nada-235/CountryAPI.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
 [1m[7m%[27m[1m[0m                                                                                                                                                                                                                                  [0m[27m[24m[Jddo@Nadas-MacBook-Pro rest-countries-api-with-color-theme-switcher-master % [K[?2004h
